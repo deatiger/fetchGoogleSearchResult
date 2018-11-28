@@ -2,7 +2,7 @@
 Search by using specified keywords on Google Search Engine.
 
 # Dependency
-Python 3.6.7 on Google Colaboratory
+Python 3.6.7 on Google Colaboratory.
 Use default libraries installed on Google Colaboratory.
 
 # Setup and Usage
