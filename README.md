@@ -2,11 +2,11 @@
 Search by using specified keywords on Google Search Engine.
 
 # Dependency
-Python 3.6.7 on Google Colaboratory.
+Python 3.6.7 on Google Colaboratory.  
 Use default libraries installed on Google Colaboratory.
 
 # Setup and Usage
-1. Access to the below URL
+1. Access to the below URL  
 https://colab.research.google.com/
 2. Select [New notebook of Python3]
 3. Copy and paste this git code in the cell
